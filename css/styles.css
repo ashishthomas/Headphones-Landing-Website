@@ -291,13 +291,27 @@ img.header-bg {
 }
 
 .store__container h2 {
-  margin-bottom: 0.5rem;
-  font-size: 2rem;
-  font-weight: 700;
-  font-family: var(--header-font);
-  color: var(--text-dark);
-  text-align: center;
-}
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    text-align: center;
+    margin-bottom: 0.5rem;
+    font-family: var(--header-font);
+    position: relative;
+    animation: fadeInSlideUp 2s ease-in-out;
+  }
+  
+  @keyframes fadeInSlideUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
 
 .store__container p {
   margin-bottom: 4rem;
