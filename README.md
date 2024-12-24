@@ -62,6 +62,8 @@ This project is a landing page for a headphones website. It showcases various mo
 - **Slider**: Swiper.js
 - **Animations**: ScrollReveal.js
 
+## How to use this project 💻
+
 ```bash
 #1. clone this project
 ~ git clone https://github.com/ashishthomas/Headphones-Landing-Website.git
