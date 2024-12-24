@@ -62,6 +62,20 @@ This project is a landing page for a headphones website. It showcases various mo
 - **Slider**: Swiper.js
 - **Animations**: ScrollReveal.js
 
+```bash
+#1. clone this project
+~ git clone https://github.com/ashishthomas/Headphones-Landing-Website.git
+
+#2. Open the index.html file in your browser
+~ open index.html
+
+#3. To display the clock in your browser
+~ live server
+
+#4. Enjoy!
+
+```
+
 ## Disclamer ❗️
 
 I am simply an Employee passionate about Front-end and the intersection of code and design, I always try to do courses and projects during my free time, so I can learn more and more. I am always open to suggestions and feedback.
