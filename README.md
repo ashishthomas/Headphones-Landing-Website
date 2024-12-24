@@ -7,7 +7,7 @@ This project is a landing page for a headphones website. It showcases various mo
 ## Preview 📸
 
 <p align="center">
-  <img src="./images/Headphone-Landing-Page-Shot.jpg" alt="Headphones Landing Page" width="100%" />
+  <img src="./images/Headphone-Landing-Page.jpg" alt="Headphones Landing Page" width="100%" />
 </p>
 
 ## Features 🔥
