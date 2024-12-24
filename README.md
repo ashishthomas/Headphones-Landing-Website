@@ -4,6 +4,12 @@
 
 This project is a landing page for a headphones website. It showcases various models of Bluetooth headphones, highlighting their features and prices. The page is designed to be visually appealing and user-friendly, with a responsive layout that adapts to different screen sizes.
 
+## Preview 📸
+
+<p align="center">
+  <img src="./images/Headphone-Landing-Page-Shot.jpg" alt="Headphones Landing Page" width="100%" />
+</p>
+
 ## Features 🔥
 
 - **Responsive Design**: The layout adjusts seamlessly to different screen sizes, ensuring a great user experience on both desktop and mobile devices.
